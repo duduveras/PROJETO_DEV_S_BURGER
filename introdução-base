@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hamburgueria</title>
+</head>
+<style>
+    * {
+        margin: 0%;
+        padding: 0%;
+    }
+    @font-face {
+        font-family: burger;
+        src: url(fontes/Iron\ &\ Brine.ttf);
+    }
+
+    header {
+        background-color: #CA6702;
+        height: 90px;
+    }
+
+    .container {
+        display: flex;
+        align-items: center;
+    }
+
+    nav {
+        padding-top: 0px;
+        padding-left: 350px;
+        margin-bottom: 100px;
+       
+    }
+
+    nav>a {
+        text-decoration: none;
+        color: #521b02;
+        padding: 38px;
+        font-size: 21px;
+        font-family: fantasy;
+        display: inline-block;
+        font-family: burger;
+    }
+
+    .container > img{
+        padding-left: 150px;
+        padding-top: 0px;
+    }
+
+    nav>a.style:hover {
+        background-color: white;
+        transition: 0.3s;
+        font-size: 19px;
+    }
+
+</style>
+<header>
+    <div class="container">
+        <img src="imagens/ORIGINAL_BURGER__2_-removebg-preview.png" alt="img-burger" style="width: 200px;">
+        <nav>
+            <a class="style" href="#">Quem somos</a>
+            <a class="style" href="#">Cardápio</a>
+            <a class="style" href="#">Contato</a>
+            <a class="style" href="#">Nos encontre</a>
+        </nav>
+    </div>
+</header>
+
+<body>
+
+</body>
+
+</html>
