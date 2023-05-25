@@ -8,7 +8,8 @@ Nesse repositório será feito as postagens do trabalho
 | :rocket: URL         | 
 |  :sunglasses:Participantes  | Eduardo Veras, Igor Moneta, Nilton Cirne , Pedro Henrique |
 
-|Data	Descrição
+|Relatorio do projeto 
+
 |25/05/2023	Definição da equipe e tema do projeto
 
 |25/05/2023	Tivemos uma reunião no discord para dividir o projeto 
