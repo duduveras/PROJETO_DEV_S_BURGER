@@ -3,7 +3,7 @@ Nesse repositório será feito as postagens do trabalho
 
 | :placard: Descrição |  Projeto    |
 | -------------  | --- |
-| :sparkles: Nome        | ****
+| :open_file_folder: Nome        | ****
 | :label: Tecnologias | 
 | :rocket: URL         | 
-|  Participantes  | Eduardo Veras, Igor Moneta, Nilton Cirne , Pedro Henrique |
+|  :sunglasses:Participantes  | Eduardo Veras, Igor Moneta, Nilton Cirne , Pedro Henrique |
