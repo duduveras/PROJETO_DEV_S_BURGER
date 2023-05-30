@@ -4,7 +4,7 @@ Nesse repositório será feito as postagens do trabalho
 | :placard: Descrição |  Projeto    |
 | -------------  | --- |
 | :open_file_folder: Nome        | **DEV BURGER**
-| :diamond_shape_with_a_dot_inside: Tecnologias | 
+| :diamond_shape_with_a_dot_inside: Tecnologias | HTML , CSS
 | :rocket: URL         | 
 |  :sunglasses:Participantes  | Eduardo Veras, Igor Moneta, Nilton Cirne , Pedro Henrique |
 
