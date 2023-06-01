@@ -19,3 +19,8 @@ Nesse repositório será feito as postagens do trabalho
 |25/05/2023 Imagem da reunião do dia 25/05/2023
 
 ![image](https://github.com/duduveras/Bateria-Digital/assets/126736702/774bfba9-528f-41bb-9b4f-e4c6f81085fc)
+
+|01/06/2023	Nos reunimos hoje no período da tarde para definir os próximos passos do nosso site. Aproveitamos também para atualizar os commits do GitHub.
+
+![reunião](https://github.com/duduveras/Trabalho-Daniel/assets/126736702/eeed992c-aca7-49f3-b823-3a803e315f74)
+
