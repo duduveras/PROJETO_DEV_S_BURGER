@@ -24,3 +24,7 @@ Nesse repositório será feito as postagens do trabalho
 
 ![reunião](https://github.com/duduveras/Trabalho-Daniel/assets/126736702/eeed992c-aca7-49f3-b823-3a803e315f74)
 
+|05/06/2023 Tivemos uma reunião no discord onde unimos os codigos finais de cada parte da pagina e tambem começamos a produzir o conteudo da parte QUEM SOMOS onde vamos colocar um foto nossa e contar um pouco sobre nos.
+
+
+
