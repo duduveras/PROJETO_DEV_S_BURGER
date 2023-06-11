@@ -26,5 +26,7 @@ Nesse repositório será feito as postagens do trabalho
 
 |05/06/2023 Tivemos uma reunião no discord onde unimos os codigos finais de cada parte da pagina e tambem começamos a produzir o conteudo da parte QUEM SOMOS onde vamos colocar um foto nossa e contar um pouco sobre nos.
 
+|11/06/2023 Criação da aba quem somos e atualizaçao das imagens adicionando novas fotos e organizando o codigo no style 
 
+|11/06/202 Atualizaçao da aba QUEM SOMOS adicionando um pouco sobre a hamburgeria e seus donos
 
