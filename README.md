@@ -28,5 +28,6 @@ Nesse repositório será feito as postagens do trabalho
 
 |11/06/2023 Criação da aba quem somos e atualizaçao das imagens adicionando novas fotos e organizando o codigo no style 
 
-|11/06/202 Atualizaçao da aba QUEM SOMOS adicionando um pouco sobre a hamburgeria e seus donos
+|11/06/2023 Atualizaçao da aba QUEM SOMOS adicionando um pouco sobre a hamburgeria e seus donos
 
+|12/06/2023 Criação da aba Sobre Nós e finalização do projeto incluindo relatório do projeto
