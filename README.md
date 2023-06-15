@@ -5,7 +5,7 @@ Nesse repositório será feito as postagens do trabalho
 | -------------  | --- |
 | :open_file_folder: Nome        | **DEV'S BURGER**
 | :diamond_shape_with_a_dot_inside: Tecnologias | HTML , CSS
-| :rocket: URL         | 
+| :rocket: Video Projeto          | https://youtu.be/PJ9EXDztDdo
 |  :sunglasses:Participantes  | Eduardo Veras, Igor Moneta, Nilton Cirne , Pedro Henrique |
 
 |Relatorio do projeto 
